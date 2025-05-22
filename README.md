@@ -1,5 +1,6 @@
 # Crop_Recommendation
-![Screenshot (79)](https://github.com/user-attachments/assets/32deb10c-07d5-4cd6-b93c-2e58ff745e53)
+![Uploading Screenshot (79).png…]()
+
 🌱 Description of the Application:
 Title: "Crop Recommendation System"
 
