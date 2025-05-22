@@ -1,6 +1,7 @@
 # Crop_Recommendation
 ![Uploading Screenshot (79).png…]()
 
+
 🌱 Description of the Application:
 Title: "Crop Recommendation System"
 
